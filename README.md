@@ -4,4 +4,4 @@
 
 - 📚 Estudante na UFS
 
-- 👻 Tecnologias: **C++, HTML/CSS, JS(iniciante)**
+- 👻 Tecnologias: **C++, HTML/CSS, Bootstrap 4
