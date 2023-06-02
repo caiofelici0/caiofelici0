@@ -4,4 +4,4 @@
 
 - Estudante na UFS
 
-- Tecnologias: HTML/CSS, Bootstrap 4, JavaScript
+- Tecnologias: HTML/CSS, Bootstrap 4, JavaScript,  Node.js (estudando)
